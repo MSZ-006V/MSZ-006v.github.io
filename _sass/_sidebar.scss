@@ -79,7 +79,7 @@
 .author__avatar {
   display: table-cell;
   vertical-align: top;
-  width: 45px;
+  width: 36px;
   // set width only, for non-square avatars
   // height: 36px;
 
@@ -90,7 +90,7 @@
   }
 
   img {
-    max-width: 720px;
+    max-width: 200px;
     border-radius: 50%;
 
     @include breakpoint($large) {
@@ -129,6 +129,14 @@
 }
 
 .sidebar .author__desktop {
+  font-size: $type-size-5;
+  display: none;
+  @media screen and (min-width: 1024px) {
+    display: block;
+  }
+}
+.sidebar .author__bio {
+  font-size: $type-size-5;
   display: none;
   @media screen and (min-width: 1024px) {
     display: block;

@@ -21,8 +21,8 @@ repository               : # "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "photo11.png"
-  name             : "Yinmingren Fu (Flynn)"
+  avatar           : "photo.png"
+  name             : "Yinmingren Fu"
   pronouns         : # example: "she/her"  
   bio              : "No because they are easy, but because they are hard"
   location         : "San Jose, CA, United States"
@@ -293,7 +293,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: Etc/UTC # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: # Etc/UTC # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
