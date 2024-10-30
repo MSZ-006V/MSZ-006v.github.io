@@ -15,7 +15,5 @@ I completed my undergraduate studies at the School of Mathematics at South China
 ## Resources
 - [Resume](https://github.com/MSZ-006V/MSZ-006V.github.io/blob/main/assets/CV%20-%20Yinmingren%20Fu%20-%20Software.pdf)
 - Blogs
-- [Email](yfu5@scu.edu)
-- [Github](https://github.com/MSZ-006V)
 - Projects
 - Something interesting
