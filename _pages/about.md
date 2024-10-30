@@ -13,7 +13,7 @@ I'm Flynn, a first year graduate student from Santa Clara University(Master of S
 I completed my undergraduate studies at the School of Mathematics at South China University of Technology(China), majoring in Information and Computing Science(BS). Now, I am pursuing my CSE degree, hoping to combine mathematics and computers to create something truly useful to the world.
 
 ## Resources
-- [Resum](https://github.com/MSZ-006V/MSZ-006V.github.io/blob/main/assets/CV%20-%20Yinmingren%20Fu%20-%20Software.pdf)
+- [Resume](https://github.com/MSZ-006V/MSZ-006V.github.io/blob/main/assets/CV%20-%20Yinmingren%20Fu%20-%20Software.pdf)
 - Blogs
 - [Email](yfu5@scu.edu)
 - [Github](https://github.com/MSZ-006V)

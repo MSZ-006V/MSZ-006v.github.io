@@ -21,7 +21,7 @@ repository               : # "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "https://github.com/MSZ-006V/MSZ-006V.github.io/blob/main/images/photo.png"
+  avatar           : "photo.png"
   name             : "Yinmingren Fu (Flynn)"
   pronouns         : # example: "she/her"  
   bio              : "No because they are easy, but because they are hard"
